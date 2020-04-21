@@ -40,5 +40,12 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "files": [
+    "dist/*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jelee603/vue-plugin-test"
+  }
 }
