@@ -1,7 +1,7 @@
 {
   "name": "@jelee/vue-plugin",
   "version": "0.1.1",
-  "main": "dist/vue-plugin-test.umd.js",
+  "main": "dist/jelee-plugin.common.js",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
