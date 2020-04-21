@@ -1,5 +1,5 @@
 {
-  "name": "vue-plugin-test",
+  "name": "@jelee/vue-plugin",
   "version": "0.1.1",
   "main": "dist/vue-plugin-test.umd.js",
   "private": true,
