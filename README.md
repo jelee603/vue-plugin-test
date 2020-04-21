@@ -15,10 +15,10 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
+### Use Plugin
 ```
-yarn lint
-```
+yarn add git+https://git@github.com/jelee603/vue-plugin-test.git -d
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+// *.vue
+import {ChartTest} from '@jelee/vue-plugin'
+```
